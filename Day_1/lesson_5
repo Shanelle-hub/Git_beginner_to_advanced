@@ -1,0 +1,6 @@
+Git push command 
+pushing in git is sending a local rository to the remote server
+git push can be written in the various ways 
+-git push -u origin master 
+or
+-git push
