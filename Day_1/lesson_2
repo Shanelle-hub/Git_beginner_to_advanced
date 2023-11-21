@@ -1,0 +1,8 @@
+Features in git and Devops
+DevOps ;Aculture that allows developpers to work efficiently together
+Some of the tools found used in devops are(SVN,docker,TFS)
+Version control system enables file checking ito a reository.they are of two types; centralized and distributed verion control system.
+Git is a version corol system fortracking changes in  files.It has the following feaures
+-tracks history
+-free open source
+-creates backups
