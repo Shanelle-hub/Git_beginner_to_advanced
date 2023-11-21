@@ -1,0 +1,13 @@
+Git merge conflicts
+what is merging? Merging is moving a source code from one  branch to another
+Merge conflict  is an event that occurs when git is unable to resolve the difference in code between two commit messages.
+To prevent a merge conflict developpers work on different isolated branches
+In case merge conflict occurs the following steps are required to solve it;
+step 1 open the file and do required changes
+step 2 after editing use the git add command
+step 3 finally create a new commit message.
+The following commands are used to solve merge conflict;
+git log --merge
+git diff(compares files)
+git reset mixed
+git checkout.
