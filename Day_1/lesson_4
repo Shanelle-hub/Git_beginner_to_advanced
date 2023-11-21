@@ -1,0 +1,19 @@
+[200~Git Commands
+Git just like other pltforms use a number of commands which are as follows;
+-git int;initializes repositories
+-git add
+-git commit;comments on the work that is done
+-git log;shows all commit messages
+-git push;push code to the server
+-git push -u origin master; push contents from repository to the server
+-git status
+-git clone
+-git remote origin server_repo_URL;helps to add a local repositoryto the server
+ some of them are used for file modification;
+-git reset
+-git revert
+others are used in branching;
+-git branch<branch_name>;to create a branch
+-git checkout;switch  from one branch to another
+-git merge;
+-git branch -D<branch_name>;to delete a branch
