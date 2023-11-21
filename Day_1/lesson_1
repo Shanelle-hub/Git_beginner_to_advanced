@@ -1,0 +1,17 @@
+Git Tutorial
+       what is Git; it is a distributed version control used for source code management.Below are some of the advantages of git
+          which allows multiple developers to work together
+	     used to track changes in a source code
+	       manages large programs efficiently.
+	         Git is composed of the following components ;
+		   repository ;which the basic unit of git and helps store code
+		     branch;which enables developers to bring in new features also helps keep projects until they are ready 
+		      fork
+		        some commands used in git are as follows;
+			 git init;which initializes a file or an existing one
+			  git add; add one or more files
+			   git commit
+			    git diff
+			     git rebase;is the combination of various comits to give  a new base commit
+			      git branch;creating a new feature
+			       git checkout<branchname> ;to switch from one branch to another
